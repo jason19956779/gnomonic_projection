@@ -1,0 +1,27 @@
+{
+  "name": "gnomonic_projection",
+  "version": "0.0.1",
+  "description": "Gnomonic Projection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason19956779/gnomonic_projection.git"
+  },
+  "keywords": [
+    "Gnomonic",
+    "Projection"
+  ],
+  "author": "Jason199567",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jason19956779/gnomonic_projection/issues"
+  },
+  "homepage": "https://github.com/jason19956779/gnomonic_projection#readme",
+  "dependencies": {
+    "mathjs": "^3.16.5",
+    "readline-sync": "^1.4.7"
+  }
+}
